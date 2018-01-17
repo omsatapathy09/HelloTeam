@@ -2,7 +2,9 @@
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("hiii");
+		for(int i=0; i<7;i++){
+			System.out.println("numbers are :"+i);
+		}
 
 	}
 
