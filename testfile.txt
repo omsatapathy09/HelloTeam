@@ -1,0 +1,16 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AA28-0FE0
+
+ Directory of C:\Users\om.satapthy\Desktop\SamplePro
+
+01/17/2018  05:57 PM    <DIR>          .
+01/17/2018  05:57 PM    <DIR>          ..
+01/17/2018  12:37 AM               464 readme.txt
+01/17/2018  12:46 AM               517 readmeee.txt
+01/17/2018  04:30 PM               671 Test.class
+01/17/2018  01:15 AM               153 Test.java
+01/17/2018  05:57 PM                 0 testfile.txt
+01/17/2018  11:29 AM               564 tk.txt
+01/17/2018  04:28 PM               613 tkss.txt
+               7 File(s)          2,982 bytes
+               2 Dir(s)  13,899,034,624 bytes free
